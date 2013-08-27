@@ -1,0 +1,40 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @customer.name %>
+</p>
+
+<p>
+  <b>City:</b>
+  <%= @customer.city %>
+</p>
+
+<p>
+  <b>State:</b>
+  <%= @customer.state %>
+</p>
+
+<p>
+  <b>Sales:</b>
+  <%= @customer.sales %>
+</p>
+
+<p>
+  <b>Profit:</b>
+  <%= @customer.profit %>
+</p>
+
+<p>
+  <b>Order quantity:</b>
+  <%= @customer.order_quantity %>
+</p>
+
+<p>
+  <b>Profit ratio:</b>
+  <%= @customer.profit_ratio %>
+</p>
+
+
+<%= link_to 'Edit', edit_customer_path(@customer) %> |
+<%= link_to 'Back', customers_path %>

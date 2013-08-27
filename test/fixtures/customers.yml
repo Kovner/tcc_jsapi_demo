@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  city: MyString
+  state: MyString
+  sales: 1.5
+  profit: 1.5
+  order_quantity: 1.5
+  profit_ratio: 1.5
+
+two:
+  name: MyString
+  city: MyString
+  state: MyString
+  sales: 1.5
+  profit: 1.5
+  order_quantity: 1.5
+  profit_ratio: 1.5
