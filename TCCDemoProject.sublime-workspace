@@ -1,0 +1,950 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"region",
+				"regionSelected"
+			],
+			[
+				"get",
+				"getWorkbook"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"sele",
+				"selectMarksAsync"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/customers/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 1182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 671,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/assets/stylesheets/demo_table.css",
+			"settings":
+			{
+				"buffer_size": 10748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"newfi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"snipp ",
+				"Snippet: if … else"
+			],
+			[
+				"snip",
+				"Snippet: Prototype"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet: ",
+				"Snippet: html"
+			],
+			[
+				"key bin use",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/rails_projects/tcc_jsapi_demo/app/assets/stylesheets/application.css",
+		"/C/ProgramData/Tableau/Tableau Server/data/tabsvc/config/workgroup.yml",
+		"/C/Sites/rails_projects/sample_app2/app/views/static_pages/about.html.erb",
+		"/c/Sites/rails_projects/sample_app2/app/views/static_pages/home.html.erb",
+		"/c/Sites/rails_projects/sample_app2/app/views/static_pages/help.html.erb",
+		"/c/Sites/rails_projects/sample_app2/spec/requests/static_pages_spec.rb",
+		"/c/Sites/rails_projects/sample_app2/config/routes.rb",
+		"/c/Sites/rails_projects/sample_app2/app/views/layouts/application.html.erb",
+		"/c/Sites/rails_projects/sample_app2/app/controllers/static_pages_controller.rb",
+		"/c/Sites/rails_projects/sample_app2/public/hello.html",
+		"/C/Sites/rails_projects/tcc_jsapi_demo/public/index2.html",
+		"/C/Sites/rails_projects/tcc_jsapi_demo/app/models/customer.rb",
+		"/C/Users/mkovner/Documents/TCC 2013/YouDidWhat/WriteToWebService/lib/WriteToWebService.js",
+		"/C/Users/mkovner/Documents/TCC 2013/YouDidWhat/HighlightBySize/HighlightBySize.js",
+		"/C/Sites/rails_projects/tcc_jsapi_demo/public/index.html",
+		"/C/Users/mkovner/Documents/TCC 2013/YouDidWhat/HighlightBySize/HighlightBySize.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (RC2) Complete/lib/tutorial.js",
+		"/C/sites/rails_projects/tcc_jsapi_demo/Gemfile",
+		"/C/Users/mkovner/Documents/TCC 2013/htdocs/ThingsIChanged.txt",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK0) Beginning/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK1) AfterInstantiate/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK2) AfterViewSwitching/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK3) BasicMapFilter/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK4) MapFilterClear/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK5) HandleDashboard/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK6) CalendarFilters/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK7) onFirstInteractive/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (RC1) afterParameters/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - RC2/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - RC1/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - RC2/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - RC2/css/tutorial.css",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - RC1/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - RC1/css/tutorial.css",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK7) onFirstInteractive/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK0) Beginning/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK1) AfterInstantiate/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK2) AfterViewSwitching/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK3) BasicMapFilter/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK4) MapFilterClear/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK5) HandleDashboard/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK6) CalendarFilters/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK0) Beginning/css/tutorial.css",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK1) AfterInstantiate/css/tutorial.css",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK0) Beginning/advanced.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK3) AfterViewSwitching/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK4) AfterMapFilters/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK3) AfterViewSwitching/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK2) AfterInstantiate/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK1) Beginning/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/TCC 2013/htdocs/lib/tutorial.js",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - Beginning/index.html",
+		"/C/Users/mkovner/Documents/GitHub/htdocs/htdocs - (MK2) AfterInstantiate/index.html",
+		"/C/Users/mkovner/Documents/TCC 2013/htdocs/lib/tutorial_Beginning.js",
+		"/C/Users/mkovner/Documents/TCC 2013/htdocs/index.html",
+		"/C/Users/mkovner/Documents/TCC 2013/htdocs/lib/tutorial_AfterInstantiate.js",
+		"/C/Users/mkovner/Documents/TCC 2013/tutorial_begin.js",
+		"/C/Users/mkovner/Documents/TCC 2013/htdocs/lib/tutorial - Beginning.js",
+		"/C/Users/mkovner/Documents/TCC 2013/tutorial.js",
+		"/C/Sites/rails_projects/demo_app/app/models/user.rb",
+		"/C/Sites/rails_projects/demo_app/app/models/micropost.rb",
+		"/C/sites/rails_projects/demo_app/Gemfile",
+		"/C/Users/mkovner/Documents/TCC 2013/YouDidWhat/FollowTheDirections/FollowTheDirections.js",
+		"/C/Users/mkovner/Documents/TCC 2013/YouDidWhat/FollowTheDirections/FollowTheDirections.html",
+		"/C/Users/mkovner/Documents/TCC 2013/YouDidWhat/VizPopUp/VizPopUp.js",
+		"/c/Sites/rails_projects/first_app/READM.md",
+		"/c/Sites/rails_projects/first_app/.git/config",
+		"/c/Sites/rails_projects/first_app/Gemfile",
+		"/c/Sites/rails_projects/first_app/README.md",
+		"/C/Users/mkovner/Documents/TCC 2013/YouDidWhat/NewsArticle/NewsArticle.html",
+		"/C/Users/mkovner/Documents/TCC 2013/YouDidWhat/NewsArticle/NewsArticlePg2.html",
+		"/C/Users/mkovner/Documents/Scripts and Html/JS API v8 Examples/EmbeddingAndSkeleton.js",
+		"/C/Users/mkovner/Documents/Scripts and Html/JS API v8 Examples/index.html",
+		"/C/Users/mkovner/Documents/JS API Training Vids/bootstrap_.css",
+		"/C/Users/mkovner/Documents/JS API Training Vids/bootstrap.css",
+		"/C/Users/mkovner/Documents/TITETG/TITETG_1031.js",
+		"/C/Users/mkovner/Documents/JS API Training Vids/tutorial.js",
+		"/C/Users/mkovner/Documents/Scripts and Html/JS API Experiments/ParameterActions.html",
+		"/C/Users/mkovner/Documents/JS API Training Vids/LessonSevenEnd.html",
+		"/C/Users/mkovner/Documents/Scripts and Html/JS API v8 Examples/ChangingViews.js",
+		"/C/Users/mkovner/Documents/My Tableau Repository/Customer Data/2013 (02) February/Gen Li/npidata_20050523-20130210.csv",
+		"/C/Users/mkovner/Documents/My Tableau Repository/Workbooks/OppTracker.twb",
+		"/C/Users/mkovner/Documents/JS API Training Vids/LessonFiveEnd.html",
+		"/C/Users/mkovner/Documents/JS API Training Vids/LessonOneEnd.html",
+		"/C/Users/mkovner/Documents/JS API Training Vids/LessonOneStart.html",
+		"/C/wamp/apps/phpmyadmin3.5.1/config.inc.php",
+		"/C/Users/mkovner/Documents/Scripts and Html/JS API Experiments/NoPagesNecc.html",
+		"/C/Users/mkovner/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/mkovner/Documents/JS API Training Vids/index.html",
+		"/C/Users/mkovner/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/mkovner/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/mkovner/Documents/JS API Training Vids/script.js",
+		"/C/Users/mkovner/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/mkovner/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/mkovner/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default.sublime-keymap",
+		"/C/Users/mkovner/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/mkovner/Documents/Scripts and Html/TDE API Experiments/BasicSuperstore2TDE.py",
+		"/C/Users/mkovner/AppData/Roaming/Sublime Text 2/Packages/JavaScript/if-___-else.sublime-snippet",
+		"/C/Users/mkovner/Documents/Scripts and Html/index.html",
+		"/C/Users/mkovner/Documents/Scripts and Html/TDE API Experiments/SQL2tdeRyrobes.py",
+		"/C/Users/mkovner/Documents/Scripts and Html/test.js",
+		"/C/Users/mkovner/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../images",
+			"application.css",
+			"tbl",
+			"timeout",
+			"if",
+			"content",
+			"have_content",
+			"0",
+			"prime",
+			"advancedPage",
+			"min",
+			"Americas",
+			"switchView",
+			"toast",
+			"user",
+			"filterName",
+			"body",
+			"hover",
+			"\\",
+			"nav-header",
+			"nav-list",
+			"nav-header",
+			"row",
+			"margin-bot",
+			"row",
+			"body",
+			"container",
+			"  background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #666666), color-stop(1, #2D2D2D));\n",
+			"gradient",
+			"body",
+			",\n",
+			"body",
+			"background",
+			"span",
+			"span2",
+			">\n",
+			"span",
+			"h1",
+			"\\",
+			"SuperStoreViaAPI",
+			":\n",
+			"SuperStoreViaAPI",
+			"')\n",
+			"SuperStoreViaAPI"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/customers/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 1182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:/Program Files (x86)/nodejs/node.exe",
+								"js": "C:/Program Files (x86)/nodejs/node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/javascripts/application.js",
+					"settings":
+					{
+						"buffer_size": 671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:/Program Files (x86)/nodejs/node.exe",
+								"js": "C:/Program Files (x86)/nodejs/node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "vendor/assets/stylesheets/demo_table.css",
+					"settings":
+					{
+						"buffer_size": 10748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1124,
+								1124
+							],
+							[
+								2721,
+								2721
+							],
+							[
+								2819,
+								2819
+							],
+							[
+								2921,
+								2921
+							],
+							[
+								3021,
+								3021
+							],
+							[
+								3119,
+								3119
+							],
+							[
+								3221,
+								3221
+							],
+							[
+								4561,
+								4561
+							],
+							[
+								4645,
+								4645
+							],
+							[
+								4725,
+								4725
+							],
+							[
+								4818,
+								4818
+							],
+							[
+								4920,
+								4920
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:/Program Files (x86)/nodejs/node.exe",
+								"js": "C:/Program Files (x86)/nodejs/node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1365.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config/database.yml",
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								576,
+								576
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:/Program Files (x86)/nodejs/node.exe",
+								"js": "C:/Program Files (x86)/nodejs/node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"spec",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"stat",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"help",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"static_pages_sp",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"boot_",
+				"bootstrap_.css"
+			],
+			[
+				"boot",
+				"bootstrap.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Sites/rails_projects/sample_app2/SampleAppSublimeProj.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}
